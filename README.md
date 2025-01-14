@@ -56,3 +56,8 @@ Analysed historical pizza sales data using SQL Server Management Studio and Powe
 ## Dashboard :
 ![PBI Pizza Dashboard](https://github.com/shripadk1999/Project_Pizza_Sales_Analysis_Using_SQL/assets/161477229/7fcc4dfc-954e-4f8a-866a-b1bfb9050e31)
 ![PBI Pizza Sales Report](https://github.com/shripadk1999/Project_Pizza_Sales_Analysis_Using_SQL/assets/161477229/0cbd1e94-bc38-44db-87b0-4cdf0e0d7fb1)
+
+**Shripad Kulkarni**  
+- Email: [shripadkulkarni2212@gmail.com](mailto:shripadkulkarni2212@gmail.com)  
+- LinkedIn: [Shripad Kulkarni](https://www.linkedin.com/in/shripad-kulkarni-candoit)  
+- GitHub: [Shripad Kulkarni](https://github.com/shripadk1999)
